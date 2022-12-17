@@ -1,0 +1,65 @@
+body{
+    background-color: gainsboro;
+}
+.navbar-brand img{
+    width: 45px;
+}
+ 
+a{
+    font-size: 20px;
+    font-weight: bold;
+}
+.navbar-nav li{
+    display: flex;
+    align-items: center;
+}
+.top-player{
+    background-color: white;
+    padding-left: 50px;
+    width:75%;
+}
+.top-player img{
+    width:23%;
+}
+.Arman img{
+    width: 50%;
+}
+.Arman a{
+    text-decoration: none;
+}
+
+.Lates-Course{
+    background-color: white;
+    padding-left: 50px;
+    width:75%;
+}
+.Lates-Course img{
+     width: 100%;
+}
+.shado{
+    box-shadow: 10px 10px 15px gray;
+    border-radius: 10px;
+    
+}
+.times{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(247, 152, 152);
+
+}
+
+.star i{
+    color: orangered;
+    font-size: 17px;
+    margin-top: 8px;
+}
+.bangla{
+    color: blueviolet;
+}
+.cat{
+    font-size: 23px;
+    padding-left: 22px;
+}
